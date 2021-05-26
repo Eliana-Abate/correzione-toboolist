@@ -80,6 +80,8 @@ h1 {
 /*STILE LIST AREA*/
 .arrow::before {
     content: '\25BC';
+    font-size: 17px;
+    padding-right: 2px;
 }
 
 .style1, .style2 {
