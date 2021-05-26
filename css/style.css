@@ -95,7 +95,7 @@ h1 {
 
 ul {
     list-style-type: none;
-    padding: 0;
+    padding-inline-start: 0;
 }
 
 .list-title {
